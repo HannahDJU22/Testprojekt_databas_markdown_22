@@ -10,4 +10,9 @@ projektet handlar om **fet stil**
 och om *kursiv* stil på sin text  
 Jag tänkte också lägga till ***fet och kursiv text***
 
+Här blir det en lista
+1. etta
+1. tvåa
+1. trea
+
 
