@@ -8,4 +8,6 @@ fortsätter på raden under
 
 projektet handlar om **fet stil**  
 och om *kursiv* stil på sin text  
+Jag tänkte också lägga till ***fet och kursiv text***
+
 
